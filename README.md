@@ -1,0 +1,2 @@
+# funnyclass
+Funny class
